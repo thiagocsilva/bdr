@@ -25,8 +25,12 @@ Solução
 
 O código doi refatorado visando sua simplicidade e entendimento, porém mantendo sua funcionalidade
 O resultado das questões 2 e 3 pode ser verificado respectivamente em:
+
 http://bdr-thiago.hol.es/tarefa2
+
 http://bdr-thiago.hol.es/tarefa3
+
+*Ps: Os arquivos criados para resolução da questão 3 podem ser verificados em: BDR\view\tarefa3Files\
 
 #Questão 4
 
