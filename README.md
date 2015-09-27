@@ -16,6 +16,7 @@ Solução
 
 Iteração de 1 a 100, utilizando mod(%) para identificar os números múltiplos de 3 e 5 para imprimir de acordo com o solicitado.
 Resultado pode ser verificado em:
+
 http://bdr-thiago.hol.es/tarefa1
 
 #Questão 2 e 3
@@ -53,9 +54,12 @@ Todas as telas são responsivas para qualquer dispositivo.
 
 http://bdr-thiago.hol.es/tarefa4
 
-* Para executar em outro local basta baixar o código fonte disponibilizado dentro da questão 4.
-** Na raiz da questão 4 existe um dump da sql da tabela necessária para verificação desta questão.
-*** A resolução de todas as questões podem ser verificadas através do link http://bdr-thiago.hol.es/
+## Para executar em outro local basta baixar o código fonte disponibilizado dentro da questão 4.
+
+## Na raiz da questão 4 existe um dump da sql da tabela necessária para verificação desta questão.
+
+## A resolução de todas as questões podem ser verificadas através do link http://bdr-thiago.hol.es/
 ou baixando o código fonte existente dentro da questão 4.
+
 
 
