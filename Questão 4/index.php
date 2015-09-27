@@ -18,7 +18,7 @@ include_once(ABSPATH_PARTIAL . '/header.php');
                         <p >CEP: 88063-463</p>
                         <p >Bairro: Campeche </p>
                         <p >Cidade: Florianópolis/SC</p>
-                        <p > Telefone: (47) 9928-0964 / (48) 8445-51</p>
+                        <p > Telefone: (47) 9928-0964 / (48) 8445-5160</p>
                         <p >E-mail: thiago.correa@netunna.com.br </p>
                         
                     </address>
