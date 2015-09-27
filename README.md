@@ -54,5 +54,5 @@ Todas as telas são responsivas para qualquer dispositivo.
 
 http://bdr-thiago.hol.es/tarefa4
 
-*Para executar em outro local basta baixar o código fonte disponibilizado.
-Na raiz do projeto existe um dump da tabela de tarefas.
+*Para executar em outro local basta baixar o código fonte disponibilizado dentro da questão 4.
+Na raiz da questão 4 existe um dump da sql da tabela necessária para verificação desta questão.

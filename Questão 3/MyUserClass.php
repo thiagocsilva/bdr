@@ -11,9 +11,7 @@ class MyUserClass extends bancoDeDados {
 
     public function getUserList()
 	{
-		$results = $this->query('select name from user'); 
-		
-		sort($results);    
+		$results = $this->query('select name from user order by name asc'); 
     
 		return $results;       
     }
