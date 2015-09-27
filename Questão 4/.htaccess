@@ -1,0 +1,12 @@
+IndexIgnore * 
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	
+	RewriteRule ^tarefa1$						            view/tarefa1.php		 					        [NC,L]
+	RewriteRule ^tarefa2$						            view/tarefa2.php		 					        [NC,L]
+	RewriteRule ^tarefa3$						            view/tarefa3.php		 					        [NC,L]
+	RewriteRule ^tarefa4$						            view/tarefa4.php		 					        [NC,L]
+	RewriteRule ^tarefa5$						            view/tarefa5.php		 					        [NC,L]
+	RewriteRule ^\/?index\/? 	                            index.php 									[L]
+</IfModule>
+
