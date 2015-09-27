@@ -58,7 +58,7 @@ http://bdr-thiago.hol.es/tarefa4
 
 ## Na raiz da questão 4 existe um dump da sql da tabela necessária para verificação desta questão.
 
-## A resolução de todas as questões podem ser verificadas baixando o código fonte existente dentro de cada questão ou através do link http://bdr-thiago.hol.es/
+## A resolução de todas as questões podem ser verificadas baixando o código fonte existente dentro do diretório de cada questão ou através do link http://bdr-thiago.hol.es/
 
 
 
