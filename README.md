@@ -3,6 +3,7 @@
 Thiago Corrêa da Silva
 
 Além do disponibilizado aqui, a resolução das questões podem ser analisadas no link:
+
 http://bdr-thiago.hol.es/
 
 #Questão 1
@@ -23,14 +24,12 @@ Refatore o código abaixo, fazendo as alterações que julgar necessário.
 
 Solução
 
-O código doi refatorado visando sua simplicidade e entendimento, porém mantendo sua funcionalidade
+O código foi refatorado visando sua simplicidade e entendimento, porém mantendo sua funcionalidade
 O resultado das questões 2 e 3 pode ser verificado respectivamente em:
 
 http://bdr-thiago.hol.es/tarefa2
 
 http://bdr-thiago.hol.es/tarefa3
-
-*Ps: Os arquivos criados para resolução da questão 3 podem ser verificados em: BDR\view\tarefa3Files\
 
 #Questão 4
 
@@ -49,10 +48,14 @@ Diferenciais:
 Solução
 
 Libero no link a seguir a API para gerenciamento de tarefas.
-A ordenação, adição, edição e remoção de tarefas é realizada de maneira dinâmica via Ajax, não sendo necessário o recarregamento da página para visualizar o conteúdo modificado.
+A ordenação(drag and drop), adição, edição e remoção de tarefas é realizada de maneira dinâmica via Ajax, não sendo necessário o recarregamento da página para visualizar o conteúdo modificado.
 Todas as telas são responsivas para qualquer dispositivo.
 
 http://bdr-thiago.hol.es/tarefa4
 
-*Para executar em outro local basta baixar o código fonte disponibilizado dentro da questão 4.
-Na raiz da questão 4 existe um dump da sql da tabela necessária para verificação desta questão.
+* Para executar em outro local basta baixar o código fonte disponibilizado dentro da questão 4.
+** Na raiz da questão 4 existe um dump da sql da tabela necessária para verificação desta questão.
+*** A resolução de todas as questões podem ser verificadas através do link http://bdr-thiago.hol.es/
+ou baixando o código fonte existente dentro da questão 4.
+
+
